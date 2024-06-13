@@ -8,7 +8,7 @@
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
 
-<p> All the best friends </p>
+<p> All the </p>
 
 </body>
 </html>
